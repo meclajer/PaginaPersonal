@@ -76,7 +76,7 @@ body { padding-top: 83px; }
 .contenedor-separacion {
     padding-top: 1%;
     padding-bottom: 1%;
-    background: rgb(99, 99, 99);;
+    background: rgb(99, 99, 99);
 }
 
 .margenes-10-porcent {
@@ -84,7 +84,11 @@ body { padding-top: 83px; }
     margin-right: 10%;
 }
 
-
+.footer-container {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background: rgba(7, 9, 12, 1);
+}
 
 /* Color Theme Swatches in RGBA */
 .dark-1 { color: rgba(7, 9, 12, 1); }
