@@ -1,0 +1,95 @@
+/* Scroll */
+body { padding-top: 83px; }
+.contenedor-separacion-2 {
+    padding-top: 83px;
+}
+
+
+.bg-dark {
+    background: rgba(7, 9, 12, 1) !important; 
+}
+
+.nav-link:hover{
+    color: rgb(0, 90, 179) !important;
+}
+
+.display-section-title {
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    font-size: 2.5rem;
+    line-height: 1.5;
+    padding: 4%;
+}
+
+.display-card-titles {
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    font-size: 1.8rem;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+.display-1 {
+    font-family: 'Jost', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+.display-2 {
+    font-family: 'Jost', sans-serif;
+    font-size: 3rem;
+    line-height: 1.1;
+    padding-top: 3%;
+    color: rgb(248, 250, 245);
+}
+
+.display-3 {
+    font-family: 'Jost', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: rgb(248, 250, 245);
+}
+.display-4 {
+    font-family: 'Jost', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    text-align: center;
+}
+.display-5 {
+    font-family: 'Jost', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.experience-display {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.icons-menu {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.contenedor-separacion {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background: rgb(99, 99, 99);;
+}
+
+.margenes-10-porcent {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+
+/* Color Theme Swatches in RGBA */
+.dark-1 { color: rgba(7, 9, 12, 1); }
+.dark-2 { color: rgba(25, 29, 38, 1); }
+.dark-3 { color: rgba(51, 58, 63, 1); }
+.dark-4 { color: rgba(110, 114, 113, 1); }
+.dark-5 { color: rgba(160, 165, 155, 1); }
+
